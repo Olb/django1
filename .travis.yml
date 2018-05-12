@@ -3,7 +3,5 @@ language: python
    - "3.6"
  script:
    - pytest
- services"
-   - mysql
  script: 
    -python manage,py test
