@@ -4,4 +4,4 @@ language: python
  script:
    - pytest
  script: 
-   -python manage,py test
+   -python manage.py test
