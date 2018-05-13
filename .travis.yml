@@ -11,4 +11,4 @@ install:
   - pip install psycopg2 --quiet
 
 script:
-  - python3 /mysite/polls tests.py
+  - python3 /mysite/polls/tests.py
